@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta name="google-site-verification" content="RXrA54saonElgBbm8ngyOjVNbiVzrqzMn1eYmDqiH6E" />
-<title>Small Temples</title>
+<title>Small Temples | Pooja Mandir</title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 <link href="layout/styles/layout.css" rel="stylesheet" type="text/css" media="all">
@@ -16,7 +16,6 @@
     <!-- ################################################################################################ -->
     <div class="fl_left">
       <ul class="nospace">
-        <li><i class="fa fa-phone"></i> +00 (61) 4777 0 3339 </li>
         <li><i class="fa fa-envelope-o"></i>my.small.temples@gmail.com</li>
       </ul>
     </div>
@@ -40,7 +39,7 @@
       <!-- ################################################################################################ -->
       <div id="logo" class="fl_left">
         <h1><a href="index.html">Small-Temples</a></h1>
-        <p>for home</p>
+        <p>Pooja Mandir for home</p>
       </div>
       <!-- ################################################################################################ -->
       <nav id="mainav" class="fl_right">
@@ -67,7 +66,7 @@
     <article>
       <p class="heading">First Time in Melbourne</p>
       <h2 class="heading">Small Temples</h2>
-      <p>for home</p>
+      <p>Pooja Mandir for home</p>
       <footer>
         <ul class="nospace inline pushright">
           <li><a class="btn" href="pages/contact.html">Just order me one..</a></li>
